@@ -11,7 +11,7 @@
   height: 100px;
 }
 .last-section h2 {text-align: center;
-font-size: 5px;}
+font-size: 50px;}
 
 
 .cta {
@@ -23,8 +23,7 @@ h1 {
   font-weight: normal;
 }
 
-h2 {
-  font-size: 42px;
+h2 {  font-size: 42px;
 }
 
 p {
