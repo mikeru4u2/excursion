@@ -1,4 +1,37 @@
-{background-color: green;}
-h1{color: blue;}
-a{color: red;
-font-size: 16px;}
+
+{
+  background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
+}
+.campsite {
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/excursion/camp.png") no-repeat center center;
+  background-size: cover;
+  height: 100px;
+}
+.last-section h2 {text-align: center;
+font-size: 5px;}
+
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+}
